@@ -1,2 +1,2 @@
 # C-Language
-One of my favorite language in the programming world. 
+One of my favorite language in the programming world. C is the basic amongst all the programming languages. If you can code in C. You can code in other languages also. Mastering C is like unlock a box filled with treasure. Treasure of knowledge and wisdom. My main focus to create this repository is to give you idea about C which will help you to learn the fundamental concepts of C Language. I hope my hard work will definitely help you to understand the C Language.
