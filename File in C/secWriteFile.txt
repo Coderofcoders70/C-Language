@@ -1,0 +1,2 @@
+The value is 32
+The file generated automatically!!
