@@ -1,17 +1,16 @@
-#include <stdio.h>
+/*
+    A perfect number is a value in maths which is the sum of its divisors/factors
+    and becomes the exact value again.
 
-int main()
-{
-    /*
-        A perfect number is a value in maths which is the sum of its divisors/factors
-        and becomes the exact value again.
-
-        For eg.)   
+    For eg.)   
         
-        1+2+3 = 6 // So 6 is a perfect number.
-        1+2+4+7+14 = 28 // So 28 is a perfect number.
-    */
-    
+    1+2+3 = 6 // So 6 is a perfect number.
+    1+2+4+7+14 = 28 // So 28 is a perfect number.
+*/
+
+#include <stdio.h>
+int main()
+{   
     int num, sum=0;
 
     printf("Enter Input: ");

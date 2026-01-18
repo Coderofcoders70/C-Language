@@ -1,3 +1,4 @@
+// Random numbers are generated using the rand() and srand() functions, which are part of the <stdlib.h> library
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

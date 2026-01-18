@@ -1,8 +1,7 @@
+// A Palindrome is a number or string that reads the same forwards and backward
 #include <stdio.h>
-
 int main()
 {
-    
     int num, copy, rev=0, rem;
 
     printf("Enter the number: ");

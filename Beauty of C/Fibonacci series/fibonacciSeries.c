@@ -1,14 +1,12 @@
-#include <stdio.h>
-
-int main()
-{
-    /*
-        Ques. Print the fibonacci series:-
-
-        0,1,1,2,3,5,8
+/*
+    Ques. Print the fibonacci series:-
+    0,1,1,2,3,5,8
     
-    */
-   
+*/
+
+#include <stdio.h>
+int main()
+{   
     int n;
     int n1=0, n2=1, n3;
     printf("Enter the number: ");
