@@ -1,7 +1,6 @@
 // Array is used to store limited values of the same data type. Which makes a variable reusable and we can use it again and again as per our needs. It's initial value is always 0.
 
 // Example 1:- 
-
 #include <stdio.h>
 int main()
 {
@@ -21,7 +20,6 @@ int main()
 }
 
 // Example 2:- 
-
 #include <stdio.h>
 int main()
 {
@@ -35,7 +33,6 @@ int main()
 }
 
 // Example 3:- 
-
 #include <stdio.h>
 int main()
 {
