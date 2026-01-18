@@ -1,4 +1,5 @@
 // **************** ARRAYS POINTER WITH LOOPS*****************
+// Example 1:-
 #include <stdio.h>
 int main()
 {
@@ -13,6 +14,7 @@ int main()
     return 0;
 }
 
+// Example 2:-
 #include <stdio.h>
 int main()
 {
@@ -27,6 +29,7 @@ int main()
     return 0;
 }
 
+// Example 3:-
 #include <stdio.h>
 int main()
 {
@@ -41,6 +44,7 @@ int main()
     return 0;
 }
 
+// Example 4:-
 #include <stdio.h>
 int main()
 {

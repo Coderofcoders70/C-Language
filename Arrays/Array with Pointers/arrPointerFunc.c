@@ -1,4 +1,5 @@
 // **************** ARRAYS POINTER WITH FUNCTION*****************
+// Example 1:-
 #include <stdio.h>
 
 void age(int *ptr, int n)
@@ -23,6 +24,7 @@ int main()
     return 0;
 }
 
+// Example 2:-
 // From the above example we can transform our pointer to array in the below example:- 
 #include <stdio.h>
 

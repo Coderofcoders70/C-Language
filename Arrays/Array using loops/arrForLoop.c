@@ -1,3 +1,5 @@
+// ************************* ARRAY USING FOR LOOP ***********************
+// Example 1:-
 #include <stdio.h>
 int main()
 {
@@ -17,6 +19,7 @@ int main()
     return 0;
 }
 
+// Example 2:-
 #include <stdio.h>
 int main()
 {
